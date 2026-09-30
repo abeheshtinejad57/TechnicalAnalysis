@@ -1,0 +1,21 @@
+BDA400 ASSIGNMENT 2 - FINAL SUBMISSION CHECKLIST
+Student: Ali Beheshtinejad
+
+[x] GitHub repository named TechnicalAnalysis
+[x] Assignment_2 subdirectory
+[x] R and RStudio installation documented with screenshots
+[x] quantmod and TTR installation documented
+[x] portfolio.txt with one symbol per line
+[x] load_stock_data() implemented
+[x] Separate data frame created for each stock symbol
+[x] calculate_statistics() implemented
+[x] Moving average, mean, mode, median, standard deviation calculated
+[x] Separate R file for data display and visualizations
+[x] MS Word report with real screenshots
+[x] Cover page with student details, assignment title, and repository link
+
+Repository:
+https://github.com/abeheshtinejad57/TechnicalAnalysis
+
+FINAL USER ACTION:
+Upload/replace ALL files in this Assignment_2 folder on GitHub, then submit the cover page and repository link through the LMS as instructed.
